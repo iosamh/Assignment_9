@@ -1,5 +1,5 @@
 
-# Clarusway Bootcamp Website Deployment – Solution
+# Clarusway Bootcamp Website Deployment
 
 ## Part 1: S3 Static Assets
 
